@@ -9,6 +9,7 @@ public class Test {
         System.out.println ("you are a good man");
         System.out.println ("you are a good man");
         System.out.println("the master branch edited");
+        System.out.println("the hot-fix branch edited");
     }
 
 }
