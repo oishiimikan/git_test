@@ -1,0 +1,57 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.study.demo.CalculatorTest",
+    "children" : [ {
+      "name" : "testAdd()",
+      "uid" : "531153d8a4304708",
+      "parentUid" : "407f2600ba003a5cba8f8ae3af1aa9b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680438750149,
+        "stop" : 1680438750165,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testDiv()",
+      "uid" : "f89204085c69a25b",
+      "parentUid" : "407f2600ba003a5cba8f8ae3af1aa9b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680438750218,
+        "stop" : 1680438750219,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testSub()",
+      "uid" : "65645e317046d16a",
+      "parentUid" : "407f2600ba003a5cba8f8ae3af1aa9b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1680438750223,
+        "stop" : 1680438750224,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "testMulti()",
+      "uid" : "6edaf75d326dc485",
+      "parentUid" : "407f2600ba003a5cba8f8ae3af1aa9b8",
+      "status" : "failed",
+      "time" : {
+        "start" : 1680438750226,
+        "stop" : 1680438750229,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "407f2600ba003a5cba8f8ae3af1aa9b8"
+  } ]
+}

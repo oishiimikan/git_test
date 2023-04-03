@@ -4,3 +4,4 @@ git_test.iml
 *.tar
 *.jar
 out
+target

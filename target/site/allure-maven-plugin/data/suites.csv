@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"failed","com.study.demo.CalculatorTest.testMulti","3",""
+"passed","com.study.demo.CalculatorTest.testDiv","1",""
+"passed","com.study.demo.CalculatorTest.testSub","1",""
+"passed","com.study.demo.CalculatorTest.testAdd","16",""
